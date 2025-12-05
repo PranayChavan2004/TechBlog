@@ -2,6 +2,9 @@
 TechBlog is a full stack Java web application provides user authentication, blog creation, category management and many more. Built using MVC architecture with a clean and responsive UI.
 
 ![image alt](https://github.com/PranayChavan2004/TechBlog/blob/607ce590402b25068438e97432c600ab3110db14/index.png)
+
+![image alt]()
+
 ## Key Features
 1.User Authentication: Sign-up and login functionality (register new users, login, session management). 
 
