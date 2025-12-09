@@ -13,11 +13,10 @@ TechBlog is a full stack Java web application provides user authentication, blog
 
 3.User Profile: Each user has a profile (with profile picture and details). There is UI to display profile details — implemented using Bootstrap modal. 
 
-4.Blog / Posts Module: Users (after login) can create new blog posts, view existing posts, maybe update or delete (CRUD for blog content). The series aims at building a “blogging system project using Java servlet and JSP.” 
+4.Blog / Posts Module: Users (after login) can create new blog posts, view existing posts, maybe update or delete (CRUD for blog content). The series aims at building a "blogging system project using Java servlet and JSP”. 
 
 5.Front-end UI: Use of JSP (JavaServer Pages) for rendering dynamic pages, HTML + perhaps CSS / Bootstrap (since profile uses Bootstrap modal) for frontend layout. 
 
-6.Project Structure & Resources Management: At the start, the tutorial covers how to set up a Java project properly (with right resource management) to make the project maintainable and modular.
 
 ## Tech Stack
 
