@@ -23,9 +23,9 @@ TechBlog is a full stack Java web application provides user authentication, blog
 
 - Java (Servlets + JSP)  
 - JDBC (for database connectivity)  
-- Relational database (e.g., MySQL)  
+- Relational database (MySQL)  
 - HTML / CSS / Bootstrap for UI  
-- NetBeans (or any Java IDE) + Ant build (build.xml)
+- NetBeans  + Ant build (build.xml)
 
 ## Contributors
 PranayChavan2004
